@@ -1,1 +1,1 @@
-"# Mi-repositorio" 
+Buen dia. Soy Jorge Antonio, un estudiante de ingeniería en sistemas computacionales. Me gusta aprender lenguajes de programacion y me fascina como estos funcionan y se especializan para distintas cosas. Un placer
